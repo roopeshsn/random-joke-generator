@@ -1,3 +1,3 @@
 # Random Joke Generator!!!
 
-This is a joke generator, which makes you laugh!
+A simple joke generator built with HTML, CSS, and JavaScript.
